@@ -1,0 +1,9 @@
+data
+.env
+node_modules
+**/bundle.js
+**/bundle.js.map
+**/bundle.js.map.gz
+coverage
+.DS_Store
+**/package-lock.json
