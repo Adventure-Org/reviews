@@ -1,0 +1,14 @@
+{
+  "extends": ["airbnb", "airbnb/hooks"],
+  "rules": {
+    "no-console": "off",
+    "linebreak-style": 0,
+    "no-nested-ternary": 0,
+    "react-hooks/exhaustive-deps": 0
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest": true
+  }
+}
